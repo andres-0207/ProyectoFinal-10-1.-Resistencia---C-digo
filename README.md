@@ -1,1 +1,0 @@
-# ProyectoFinal-10-1.-Resistencia---C-digo
