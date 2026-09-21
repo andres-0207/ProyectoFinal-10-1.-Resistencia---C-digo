@@ -80,11 +80,6 @@ class Lista:
             nodoActual = nodoActual.obtenerSiguiente()
         return contador
 
-
-# =====================================================================
-# 2) LÓGICA DE NEGOCIO
-# =====================================================================
-
 class Resistencia:
     """Representa una resistencia eléctrica y calcula sus bandas de
     color a partir de su valor en ohmios."""
